@@ -26,3 +26,6 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaning what the screenshot is about.
 
+Example below (be sure to include reference number).
+
+Ref 1: Network Diagram
